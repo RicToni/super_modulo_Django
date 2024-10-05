@@ -21,7 +21,7 @@
 
 python3 -m venv .venv (AMBIENTE VIRTUAL)
 
-
+python3 manage.py startapp students
 
 
 git credencial-manager-core erase
