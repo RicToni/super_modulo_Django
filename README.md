@@ -2,14 +2,28 @@
 
 ## Clonando e preparando seu ambiente de trabalho:
 - Clone o repositório:
-    - git clone https://github.com/RicToni/super_modulo_Django
-- Crie um ambiente virtual:
-    - python -m venv venv
-- Ative o ambiente virtual:
-    - venv\Scripts\activate (Windows)
-    - source venv/bin/activate (Linux)
-- Com o ambiente virtual criado e ativo, installe o Django localmente:
-    - pip install django
+    ```bash
+    git clone https://github.com/RicToni/super_modulo_Django
+    ```
 
+- Crie um ambiente virtual:
+    ```bash
+    python -m venv venv
+    ```
+
+- Ative o ambiente virtual:
+    - Para Windows:
+        ```bash
+        venv\Scripts\activate
+        ```
+    - Para Linux/MacOS:
+        ```bash
+        source venv/bin/activate
+        ```
+
+- Com o ambiente virtual criado e ativo, instale o Django localmente:
+    ```bash
+    pip install django
+    ```
 
 
