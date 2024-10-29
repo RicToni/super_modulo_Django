@@ -10,6 +10,7 @@
     ```bash
     python -m venv venv
     ```
+    - Após o uso do comando acima uma pasta chamada 'venv' deve ser criada no diretório do projeto. 
 
 - Ative o ambiente virtual:
     - Para Windows:
