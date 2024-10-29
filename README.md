@@ -21,9 +21,9 @@
         source venv/bin/activate
         ```
 
-- Com o ambiente virtual criado e ativo, instale o Django localmente:
+- Com o ambiente virtual criado e ativo, instale o Django e todas as dependências localmente:
     ```bash
-    pip install django
+    pip install -r requirements.txt
     ```
 
 
