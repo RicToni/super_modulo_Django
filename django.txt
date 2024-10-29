@@ -1,24 +1,5 @@
 https://github.com/thiagooshiro/django-intro.git
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 python3 -m venv .venv (AMBIENTE VIRTUAL)
 
 python3 manage.py startapp students
