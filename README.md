@@ -11,6 +11,7 @@
     python -m venv venv
     ```
     - Após o uso do comando acima uma pasta chamada 'venv' deve ser criada no diretório do projeto. 
+    - Caso seja criado um ambiente virtual com nome distinto de 'venv' ou '.venv' lembre-se de adicionar seu nome ao arquivo '.gitignore', para que o mesmo não seja carregado e salvo pelo git/github. 
 
 - Ative o ambiente virtual:
     - Para Windows:
