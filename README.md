@@ -27,5 +27,11 @@
     ```bash
     pip install -r requirements.txt
     ```
+<hr>
 
+## Executando o servidor:
+- Para rodar o servidor execute o seguinte comando no terminal:
+    ```bash
+    python manage.py runserver
+    ```
 
