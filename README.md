@@ -34,4 +34,7 @@
     ```bash
     python manage.py runserver
     ```
-
+- Caso ocorra algum erro no terminal relacionado a migração execute o seguinte comando para aplicar as migrações:
+    ```bash
+    python manage.py migrate
+    ```
