@@ -17,7 +17,7 @@ class Teacher(models.Model):
         return f"{self.first_name} {self.last_name}"
     
     def age(self):
-        # Método para calcular a idade do professor com base na data de nascimento
+        # Método para calcular a idade do professor com base na data de nasciment
         from datetime import date
         today = date.today()
         return today.year - self.birth_date.year - ((today.month, today.day) < (self.birth_date.month, self.birth_date.day))
